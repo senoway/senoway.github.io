@@ -1,0 +1,3 @@
+#!/bin/zsh
+cp -R ~/shyme/shyme/dist/pwa/* ./
+exit 0
